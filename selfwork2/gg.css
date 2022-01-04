@@ -1,0 +1,30 @@
+body{
+    margin: 0;
+
+    font-family: 'Montserrat', sans-serif;
+    line-height: 1.5;
+    font-size: 15px;
+    color: #333;
+
+}
+*,
+:after,
+:befor{
+    box-sizing: border-box;
+}
+a{
+    text-decoration: none;
+    color: black;
+    border: 0.5px solid green;
+    border-radius: 27px;
+    padding: 10px;
+    
+
+}
+.madals{
+    
+}
+.modal{
+    align-items: center;
+    margin: 0 auto;
+}
